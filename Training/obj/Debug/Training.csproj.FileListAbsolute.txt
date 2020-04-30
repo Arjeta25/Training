@@ -1,0 +1,9 @@
+C:\Users\Arjeta\source\repos\Training\Training\bin\Debug\Training.dll
+C:\Users\Arjeta\source\repos\Training\Training\bin\Debug\Training.pdb
+C:\Users\Arjeta\source\repos\Training\Training\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Arjeta\source\repos\Training\Training\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Arjeta\source\repos\Training\Training\obj\Debug\Training.csprojAssemblyReference.cache
+C:\Users\Arjeta\source\repos\Training\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+C:\Users\Arjeta\source\repos\Training\Training\obj\Debug\Training.csproj.CopyComplete
+C:\Users\Arjeta\source\repos\Training\Training\obj\Debug\Training.dll
+C:\Users\Arjeta\source\repos\Training\Training\obj\Debug\Training.pdb
